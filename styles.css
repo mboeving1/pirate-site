@@ -7,9 +7,11 @@ header{
 }
 div{
     background:white;
-    width:90%;
+    width:80%;
     margin:0 auto;
-    
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:20px;
     
 }
 
